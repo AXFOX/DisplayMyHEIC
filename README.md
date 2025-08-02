@@ -24,7 +24,7 @@
 ## 使用方法：
 将以下代码添加到网站的`</body>`标签前，通常我们把他放在header或footer里。
 在Typecho上我们可以把它放在主题文件的 header.php 中。
-```
+```javascript
 <script type="module">
 // 导入CSP安全版本的HEIC转换模块
 import { heicTo } from 'https://cdn.jsdelivr.net/npm/heic-to@1.2.1/dist/csp/heic-to.js';
