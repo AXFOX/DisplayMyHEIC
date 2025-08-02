@@ -1,8 +1,9 @@
 # DisplayMyHEIC
-在任何网页上显示你贴出的HEIF/HEIC图片。 Display your posted HEIF/HEIC images on any web page.
+在任何网页上正常显示你贴出的HEIF/HEIC图片。 Display your posted HEIF/HEIC images on any web page.
 ## 初衷/感谢开源
 让我的Typecho博客可以正常显示正在推广的HEIF/HEIC格式照片。
-感谢
+感谢hoppergee的[heic-to](https://github.com/hoppergee/heic-to)项目！
+感谢自由软件与开源社区！
 ## 工作原理：
 1. 自动检测所有带有.heic或.HEIC扩展名的图片
 2. 使用fetch API获取原始HEIC文件
