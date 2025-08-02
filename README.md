@@ -104,6 +104,7 @@ document.addEventListener('DOMContentLoaded', async function() {
 .heic-error {
     border: 2px dashed #e74c3c;
 }
+```
 </style>
 ```
 
